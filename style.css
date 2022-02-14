@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.image1{
+    
+    text-align: center;
+    width: 100%;
+}
+img{
+    text-align: center;
+    width: 80%;
+}
+
+
+
+
